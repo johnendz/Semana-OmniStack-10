@@ -1,4 +1,5 @@
-# Um evento para você conhecer na prática o poder do Node.js, ReactJS, React Native e levar suas aplicações e sua carreira de programador para o próximo nível!
+#Descubra o poder da melhor stack do mercado
+## Um evento para você conhecer na prática o poder do Node.js, ReactJS, React Native e levar suas aplicações e sua carreira de programador para o próximo nível!
 
 
 <img align="left" width="442" height="485" src="https://rocketseat.com.br/static/images/week/phone.svg">
