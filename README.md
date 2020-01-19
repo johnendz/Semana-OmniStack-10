@@ -1,12 +1,17 @@
-# Descubra o poder da melhor stack do mercado
-## Um projeto para você conhecer na prática o poder do Node.js, ReactJS, React Native e levar suas aplicações e sua carreira de programador para o próximo nível!
-
+# Um projeto utilizando o poder do Node.js, ReactJS, React Native.
 
 <img align="left" width="442" height="485" src="phone.svg">
 
-## O que você vai aprender?
+## Requerimentos
 
-Durante essa semana você vai descobrir na prática porque essas tecnologias fazem tanto sentido juntas, construindo do zero uma aplicação completa com Node.js no back-end, ReactJS no front-end e React Native no mobile.
+* [NPM](https://www.npmjs.com)
+* [Nodejs](https://nodejs.org)
 
-Você vai aprender como cada uma dessas tecnologias funcionam, como elas se integram, e quais os critérios para a escolha dessa stack. E finalmente vai entender como ela pode levar suas aplicações e a sua carreira para o próximo nível.
-> O projeto ainda está em desenvolvimento.
+Com esse projeto você vai descobrir na prática porque essas tecnologias fazem tanto sentido juntas, construindo do zero uma aplicação completa com Node.js no back-end, ReactJS no front-end e React Native no mobile.
+
+Tecnologias e Frameworks usados são
+
+* [React](https://pt-br.reactjs.org) Uma biblioteca JavaScript para criar interfaces de usuário.
+* [React Native](https://facebook.github.io/react-native/) Um framework para criar aplicativos nativos usando o React.
+
+> O projeto teve um duração de 7 dias, começando em 13 de janeiro de 2020 e finalizado em 19 de janeiro de 2020.
