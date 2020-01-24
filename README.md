@@ -1,9 +1,6 @@
 # Um projeto utilizando Node.js, ReactJS, React Native.
 
-<video align="left" width="442" height="485" controls>
-  <source src="example.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
+<img align="left" width="200" src="https://media.giphy.com/media/KyTenKoKrHMGyeAYyb/giphy.gif">
 
 ## Requerimentos
 
