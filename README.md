@@ -6,16 +6,16 @@
   🚀 Semana OmniStack 10.0
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/johnendz/React-OmniStack-Example">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnendz/React-OmniStack-Example">
   
   <a href="https://github.com/johnendz/React-OmniStack-Example/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnendz/React-OmniStack-Example">
   </a>
 
   <a href="https://github.com/johnendz/React-OmniStack-Example/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/johnendz/React-OmniStack-Example">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
