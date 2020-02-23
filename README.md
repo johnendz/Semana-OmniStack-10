@@ -25,13 +25,13 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Frontend" width="165" src="https://media.giphy.com/media/KyTenKoKrHMGyeAYyb/giphy.gif">
+  <img alt="Frontend" width="165" src="https://github.com/johnendz/React-OmniStack-Example/raw/master/devradar.webp">
 </p>
 
 ## :rocket: Tecnologias
@@ -47,12 +47,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevRadar é um projeto para localizar desenvolvedores com base na sua localização atual, contendo alguns filtros, limite de 10km do seu local atual, e buscar devs por tecnologias, com atualização no mapa de novos devs em tempo-real.
 
-## 🔖 Layout
-
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.github/DevRadar.sketch).
-
-Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
-
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
@@ -61,5 +55,3 @@ Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utiliz
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-> O projeto teve uma duração de 6 dias, começando em 13 de janeiro de 2020 e finalizado em 19 de janeiro de 2020.
